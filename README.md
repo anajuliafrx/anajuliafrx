@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo 👋, eu sou Ana Júlia</h1>
+<h1 align="center">Olá, mundo 👋 eu sou Ana Júlia</h1>
 <h3 align="center">Sou estudante de Engenharia de Software e apaixonada por tecnologia, design e desenvolvimento web.</h3>
 
 
