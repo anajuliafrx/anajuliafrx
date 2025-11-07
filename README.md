@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Ana Júlia
 
-<!--
-**anajuliafrx/anajuliafrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software** e apaixonada por tecnologia, design e desenvolvimento web.  
+Atualmente, estou focada em me tornar **Desenvolvedora Full Stack**, criando projetos que unem lógica, criatividade e boas práticas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 O que estou aprendendo
+- Desenvolvimento Front-End (HTML, CSS, JavaScript)
+- Back-End (Node.js, APIs e Banco de Dados)
+- Versionamento com Git e GitHub
+
+---
+
+### 🎯 Objetivo
+Ser reconhecida pela **excelência no que faço**, construindo soluções criativas e funcionais que impactem positivamente as pessoas.
+
+---
+
+### 📫 Contato
+- **Email:** anajuliafrx@gmail.com  
+- **LinkedIn:** [linkedin.com/in/anajulia](https://linkedin.com/in/anajulia)  
+
+---
+
+> “O sucesso é a soma de pequenos esforços repetidos dia após dia.”
+
+
